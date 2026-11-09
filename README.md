@@ -79,7 +79,7 @@
 
 - 🥈 **ULIP Hackathon:** reached the semi-final round
 - 🎮 **Smart India Hackathon 2024:** shortlisted among the top 20 teams at college level and cleared the screening round. Idea: game-based digital education for children aged 12 to 16
-- 🎯 **C-CAT:** All India Rank 791 in the CDAC Common Admission Test
+
 
 ---
 
