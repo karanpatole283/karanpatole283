@@ -21,10 +21,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.E. in Computer Engineering (2025), now pursuing the **PG Certificate Programme in Advanced Computing** at CDAC ACTS, Pune
+- 🎓 B.E. in Computer Engineering (2025)
 - 🌱 Currently deepening my skills in **Java, Spring Boot and web development**
 - 🤝 Comfortable working directly with non-technical people and explaining technical work in plain language
-- 🏆 All India Rank **791** in the CDAC Common Admission Test (C-CAT)
 - 📍 Based in Pune, Maharashtra, India
 
 ---
